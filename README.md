@@ -16,7 +16,7 @@ Edusity is designed to offer students and visitors an overview of educational op
 
 ## 📸 Screenshot
 
-![Edusity Homepage](screenshot.png)
+![Edusity Homepage](Screenshot.png)
 
 ---
 
