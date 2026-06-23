@@ -8,6 +8,10 @@ https://edusity-rose-phi.vercel.app
 ## 📖 About
 Edusity is a responsive educational website that provides information about courses, campus facilities, student testimonials, and academic opportunities.
 
+## 📸 Screenshot
+
+![Edusity Homepage](screenshot.png.png)
+
 ## ✨ Features
 - Responsive Design
 - Modern User Interface
